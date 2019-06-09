@@ -4,152 +4,8 @@
     <option name="SCOPE_TYPE" value="10" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd2e30e7-7610-4e3b-8f96-a9983ae90564" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.css/coverage.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__nl_garvelink_oss_iban_1_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_easymock_easymock_4_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_iban4j_iban4j_3_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_joda_joda_money_1_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_all_1_9_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_3_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.img/arrowDown.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.img/arrowUp.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BankApplicationV2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index_SORT_BY_BLOCK.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index_SORT_BY_BLOCK_DESC.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index_SORT_BY_CLASS.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index_SORT_BY_CLASS_DESC.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index_SORT_BY_LINE.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index_SORT_BY_LINE_DESC.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index_SORT_BY_METHOD.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index_SORT_BY_METHOD_DESC.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index_SORT_BY_NAME_DESC.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.Account/.classes/Account.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.Account/.classes/AccountGenerator.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.Account/.classes/AccountTest.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.Account/.classes/InterestGenerator.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.Account/.classes/InternationalAccount.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.Account/.classes/RegularAccount.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.Account/.classes/RegularAccountTest.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.Account/.classes/SavingAccount.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.Account/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.Account/index_SORT_BY_BLOCK.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.Account/index_SORT_BY_BLOCK_DESC.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.Account/index_SORT_BY_CLASS.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.Account/index_SORT_BY_CLASS_DESC.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.Account/index_SORT_BY_LINE.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.Account/index_SORT_BY_LINE_DESC.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.Account/index_SORT_BY_METHOD.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.Account/index_SORT_BY_METHOD_DESC.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.Account/index_SORT_BY_NAME_DESC.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.Transfer/.classes/InternationalTransfer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.Transfer/.classes/RegularTransfer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.Transfer/.classes/Transfer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.Transfer/.classes/TransferTest.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.Transfer/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.Transfer/index_SORT_BY_BLOCK.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.Transfer/index_SORT_BY_BLOCK_DESC.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.Transfer/index_SORT_BY_CLASS.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.Transfer/index_SORT_BY_CLASS_DESC.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.Transfer/index_SORT_BY_LINE.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.Transfer/index_SORT_BY_LINE_DESC.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.Transfer/index_SORT_BY_METHOD.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.Transfer/index_SORT_BY_METHOD_DESC.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.Transfer/index_SORT_BY_NAME_DESC.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.User/.classes/Client.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.User/.classes/Director.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.User/.classes/Employee.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.User/.classes/User.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.User/.classes/UserTest.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.User/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.User/index_SORT_BY_BLOCK.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.User/index_SORT_BY_BLOCK_DESC.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.User/index_SORT_BY_CLASS.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.User/index_SORT_BY_CLASS_DESC.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.User/index_SORT_BY_LINE.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.User/index_SORT_BY_LINE_DESC.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.User/index_SORT_BY_METHOD.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.User/index_SORT_BY_METHOD_DESC.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.User/index_SORT_BY_NAME_DESC.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.pl.lodz.uni.math.BankApplication.Services/.classes/AccountService.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.pl.lodz.uni.math.BankApplication.Services/.classes/TransferService.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.pl.lodz.uni.math.BankApplication.Services/.classes/UserService.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.pl.lodz.uni.math.BankApplication.Services/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.pl.lodz.uni.math.BankApplication.Services/index_SORT_BY_BLOCK.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.pl.lodz.uni.math.BankApplication.Services/index_SORT_BY_BLOCK_DESC.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.pl.lodz.uni.math.BankApplication.Services/index_SORT_BY_CLASS.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.pl.lodz.uni.math.BankApplication.Services/index_SORT_BY_CLASS_DESC.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.pl.lodz.uni.math.BankApplication.Services/index_SORT_BY_LINE.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.pl.lodz.uni.math.BankApplication.Services/index_SORT_BY_LINE_DESC.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.pl.lodz.uni.math.BankApplication.Services/index_SORT_BY_METHOD.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.pl.lodz.uni.math.BankApplication.Services/index_SORT_BY_METHOD_DESC.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.pl.lodz.uni.math.BankApplication.Services/index_SORT_BY_NAME_DESC.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Account/AccountService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Account/InterestGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Account/InternationalAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Account/RegularAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Account/SavingAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Transfer/RegularTransfer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/User/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/User/Director.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/User/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/pl/lodz/uni/math/BankApplication/Services/TransferService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/pl/lodz/uni/math/BankApplication/Services/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pl/lodz/uni/math/BankApplication/Account/AccountServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pl/lodz/uni/math/BankApplication/Account/InternationalAccountTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pl/lodz/uni/math/BankApplication/Account/SavingAccountTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pl/lodz/uni/math/BankApplication/Transfer/InternationalTransferTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pl/lodz/uni/math/BankApplication/Transfer/RegularTransferTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pl/lodz/uni/math/BankApplication/User/ClientTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pl/lodz/uni/math/BankApplication/User/DirectorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pl/lodz/uni/math/BankApplication/User/EmployeeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/BankApplicationV2.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/pl/lodz/uni/math/BankApplication/Account/Account.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/pl/lodz/uni/math/BankApplication/Account/AccountService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/pl/lodz/uni/math/BankApplication/Account/InterestGenerator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/pl/lodz/uni/math/BankApplication/Account/InternationalAccount.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/pl/lodz/uni/math/BankApplication/Account/RegularAccount.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/pl/lodz/uni/math/BankApplication/Account/RegularAccountTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/pl/lodz/uni/math/BankApplication/Account/SavingAccount.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/pl/lodz/uni/math/BankApplication/Transfer/InternationalTransfer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/pl/lodz/uni/math/BankApplication/Transfer/RegularTransfer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/pl/lodz/uni/math/BankApplication/Transfer/Transfer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/pl/lodz/uni/math/BankApplication/Transfer/TransferTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/pl/lodz/uni/math/BankApplication/User/Client.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/pl/lodz/uni/math/BankApplication/User/Director.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/pl/lodz/uni/math/BankApplication/User/Employee.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/pl/lodz/uni/math/BankApplication/User/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/pl/lodz/uni/math/BankApplication/User/UserTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/pl/lodz/uni/math/BankApplication/pl/lodz/uni/math/BankApplication/Services/TransferService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/pl/lodz/uni/math/BankApplication/pl/lodz/uni/math/BankApplication/Services/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/META-INF/BankApplicationV2.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/pl/lodz/uni/math/BankApplication/Account/AccountServiceTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/pl/lodz/uni/math/BankApplication/Account/InternationalAccountTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/pl/lodz/uni/math/BankApplication/Account/SavingAccountTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/pl/lodz/uni/math/BankApplication/Transfer/InternationalTransferTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/pl/lodz/uni/math/BankApplication/Transfer/RegularTransferTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/pl/lodz/uni/math/BankApplication/User/ClientTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/pl/lodz/uni/math/BankApplication/User/DirectorTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/pl/lodz/uni/math/BankApplication/User/EmployeeTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Account/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Account/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Account/AccountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Account/RegularAccountTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Transfer/InternationalTransfer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Transfer/InternationalTransfer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Transfer/Transfer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Transfer/Transfer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Transfer/TransferTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Transfer/TransferTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/User/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/User/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/User/UserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/User/UserTest.java" afterDir="false" />
+    <list default="true" id="cd2e30e7-7610-4e3b-8f96-a9983ae90564" name="Default Changelist" comment="AccountClass finished and AccountService created">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -194,7 +50,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Account/RegularAccountTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
+            <state relative-caret-position="272">
               <caret line="18" column="58" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="58" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -206,17 +62,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Account/AccountService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="68">
+              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/pl/lodz/uni/math/BankApplication/Account/AccountServiceTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
@@ -245,8 +101,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Transfer/RegularTransfer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="34" lean-forward="true" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="50" />
+            <state relative-caret-position="34">
+              <caret line="4" column="47" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
               <folding>
                 <element signature="e#584#585#0" expanded="true" />
                 <element signature="e#618#619#0" expanded="true" />
@@ -259,7 +115,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/pl/lodz/uni/math/BankApplication/Transfer/RegularTransferTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
-              <caret line="10" column="78" selection-start-line="10" selection-start-column="78" selection-end-line="10" selection-end-column="78" />
+              <caret line="11" column="78" selection-start-line="11" selection-start-column="78" selection-end-line="11" selection-end-column="78" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -270,7 +126,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Transfer/TransferTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
+            <state relative-caret-position="476">
               <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -283,7 +139,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Transfer/Transfer.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="680">
-              <caret line="40" column="45" selection-start-line="40" selection-start-column="45" selection-end-line="40" selection-end-column="45" />
+              <caret line="41" column="45" selection-start-line="41" selection-start-column="45" selection-end-line="41" selection-end-column="45" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#600#601#0" expanded="true" />
@@ -297,13 +153,17 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Account/Account.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="680">
-              <caret line="44" column="5" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
+            <state relative-caret-position="34">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#282#283#0" expanded="true" />
+                <element signature="e#348#349#0" expanded="true" />
+                <element signature="e#611#612#0" expanded="true" />
+                <element signature="e#681#682#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -330,7 +190,9 @@
     </replaceStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/main/java" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -358,7 +220,6 @@
         <option value="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Account/RegularAccountTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/pl/lodz/uni/math/BankApplication/Account/InternationalAccountTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/pl/lodz/uni/math/BankApplication/Account/SavingAccountTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Account/Account.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Account/InternationalAccount.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Account/SavingAccount.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Account/RegularAccount.java" />
@@ -370,6 +231,7 @@
         <option value="$PROJECT_DIR$/src/test/java/pl/lodz/uni/math/BankApplication/Transfer/RegularTransferTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/pl/lodz/uni/math/BankApplication/Account/AccountServiceTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Account/AccountService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Account/Account.java" />
       </list>
     </option>
   </component>
@@ -526,7 +388,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560098471813" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560099211751" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -562,7 +424,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.AccountServiceTest">
+  <component name="RunManager" selected="JUnit.pl.lodz.uni.math.BankApplication in BankApplicationV2">
     <configuration name="AccountServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="BankApplicationV2" />
       <extension name="coverage">
@@ -639,8 +501,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.AccountServiceTest" />
         <item itemvalue="JUnit.pl.lodz.uni.math.BankApplication in BankApplicationV2" />
+        <item itemvalue="JUnit.AccountServiceTest" />
         <item itemvalue="JUnit.RegularTransferTest" />
         <item itemvalue="JUnit.AccountServiceTest.createAccount" />
         <item itemvalue="JUnit.pl.lodz.uni.math.BankApplication.Account in BankApplicationV2" />
@@ -672,13 +534,17 @@
       <option name="project" value="LOCAL" />
       <updated>1559629130392</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="AccountClass finished and AccountService created">
+      <created>1560098651599</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1560098651599</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AccountServiceTest - 2019.06.09 at 12h 26m 34s.xml">
-      <configuration name="AccountServiceTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="AccountServiceTest - 2019.06.09 at 12h 26m 43s.xml">
       <configuration name="AccountServiceTest" configurationId="JUnit" />
     </history-entry>
@@ -706,6 +572,9 @@
     <history-entry file="AccountServiceTest - 2019.06.09 at 13h 20m 11s.xml">
       <configuration name="AccountServiceTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="pl_lodz_uni_math_BankApplication_in_BankApplicationV2 - 2019.06.09 at 18h 46m 30s.xml">
+      <configuration name="pl.lodz.uni.math.BankApplication in BankApplicationV2" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -728,14 +597,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32960895" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32960895" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32960895" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39944133" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32960895" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32960895" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="9" visible="true" weight="0.32960895" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32960895" />
       <window_info anchor="bottom" id="Inspection Results" order="11" weight="0.32960895" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -781,6 +650,16 @@
       <window_info anchor="right" x="93" y="93" width="1350" height="648" id="Byte Code Viewer" order="9" type="FLOATING" />
     </layout-to-restore>
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -822,12 +701,14 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <ignored-roots>
       <path value="$PROJECT_DIR$/src" />
     </ignored-roots>
     <MESSAGE value="account Class done and tested" />
     <MESSAGE value="TranferClass Done and tested, InternationalTranfer class created" />
-    <option name="LAST_COMMIT_MESSAGE" value="TranferClass Done and tested, InternationalTranfer class created" />
+    <MESSAGE value="AccountClass finished and AccountService created" />
+    <option name="LAST_COMMIT_MESSAGE" value="AccountClass finished and AccountService created" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -1040,7 +921,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Transfer/Transfer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="680">
-          <caret line="40" column="45" selection-start-line="40" selection-start-column="45" selection-end-line="40" selection-end-column="45" />
+          <caret line="41" column="45" selection-start-line="41" selection-start-column="45" selection-end-line="41" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#600#601#0" expanded="true" />
@@ -1065,7 +946,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Account/RegularAccountTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
+        <state relative-caret-position="272">
           <caret line="18" column="58" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="58" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1075,7 +956,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Transfer/TransferTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
+        <state relative-caret-position="476">
           <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1085,8 +966,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Transfer/RegularTransfer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="34" lean-forward="true" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="50" />
+        <state relative-caret-position="34">
+          <caret line="4" column="47" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
           <folding>
             <element signature="e#584#585#0" expanded="true" />
             <element signature="e#618#619#0" expanded="true" />
@@ -1097,34 +978,38 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/pl/lodz/uni/math/BankApplication/Transfer/RegularTransferTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="10" column="78" selection-start-line="10" selection-start-column="78" selection-end-line="10" selection-end-column="78" />
+          <caret line="11" column="78" selection-start-line="11" selection-start-column="78" selection-end-line="11" selection-end-column="78" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Account/Account.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="44" column="5" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Account/AccountService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/pl/lodz/uni/math/BankApplication/Account/AccountServiceTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Account/AccountService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Account/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#282#283#0" expanded="true" />
+            <element signature="e#348#349#0" expanded="true" />
+            <element signature="e#611#612#0" expanded="true" />
+            <element signature="e#681#682#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
