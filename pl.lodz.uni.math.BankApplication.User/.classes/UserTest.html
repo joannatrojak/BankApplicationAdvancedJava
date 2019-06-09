@@ -1,0 +1,150 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html id="htmlId">
+<head>
+    <title>Coverage Report :: UserTest</title>
+    <style type="text/css">
+    @import "../../.css/coverage.css";
+
+    </style>
+</head>
+
+<body>
+<div class="header"></div>
+
+<div class="content">
+    <div class="breadCrumbs">
+        [ <a href="../../index.html">all classes</a> ]
+        [ <a href="../index.html">pl.lodz.uni.math.BankApplication.User</a> ]
+    </div>
+
+    <h1>Coverage Summary for Class: UserTest (pl.lodz.uni.math.BankApplication.User)</h1>
+
+    <table class="coverageStats">
+        <tr>
+            <th class="name">Class</th>
+            <th class="coverageStat
+">
+                Class, %
+            </th>
+            <th class="coverageStat
+">
+                Method, %
+            </th>
+            <th class="coverageStat
+">
+                Line, %
+            </th>
+        </tr>
+        <tr>
+            <td class="name">UserTest</td>
+            <td class="coverageStat">
+  <span class="percent">
+    100%
+  </span>
+                <span class="absValue">
+    (1/ 1)
+  </span>
+            </td>
+            <td class="coverageStat">
+  <span class="percent">
+    100%
+  </span>
+                <span class="absValue">
+    (12/ 12)
+  </span>
+            </td>
+            <td class="coverageStat">
+  <span class="percent">
+    100%
+  </span>
+                <span class="absValue">
+    (39/ 39)
+  </span>
+            </td>
+        </tr>
+
+    </table>
+
+    <br/>
+    <br/>
+
+
+    <div class="sourceCode"><i>1</i>&nbsp;package pl.lodz.uni.math.BankApplication.User;
+        <i>2</i>&nbsp;
+        <i>3</i>&nbsp;import org.junit.jupiter.api.Test;
+        <i>4</i>&nbsp;
+        <i>5</i>&nbsp;import static org.junit.jupiter.api.Assertions.*;
+        <i>6</i>&nbsp;
+        <b class="fc"><i>7</i>&nbsp;class UserTest {</b>
+        <b class="fc"><i>8</i>&nbsp; private final Client userTester = new Client();</b>
+        <i>9</i>&nbsp;
+        <i>10</i>&nbsp; @Test
+        <i>11</i>&nbsp; void checkIfLoginIsCorrect() {
+        <b class="fc"><i>12</i>&nbsp; userTester.setUserLogin(&quot;login1&quot;);</b>
+        <b class="fc"><i>13</i>&nbsp; assertEquals(&quot;login1&quot;,userTester.getUserLogin());</b>
+        <b class="fc"><i>14</i>&nbsp; assertNotEquals(&quot;&quot;, userTester.getUserLogin());</b>
+        <b class="fc"><i>15</i>&nbsp; assertNotEquals(&quot;login&quot;, userTester.getUserLogin());</b>
+        <b class="fc"><i>16</i>&nbsp; }</b>
+        <i>17</i>&nbsp; @Test
+        <i>18</i>&nbsp; void checkIfLoginEmptyIsSetToNull(){
+        <b class="fc"><i>19</i>&nbsp; userTester.setUserLogin(&quot;&quot;);</b>
+        <b class="fc"><i>20</i>&nbsp; assertNull(userTester.getUserLogin());</b>
+        <b class="fc"><i>21</i>&nbsp; }</b>
+        <i>22</i>&nbsp; @Test
+        <i>23</i>&nbsp; void checkIfLoginLessThanSixIsSetToNull(){
+        <b class="fc"><i>24</i>&nbsp; userTester.setUserLogin(&quot;login&quot;);</b>
+        <b class="fc"><i>25</i>&nbsp; assertNull(userTester.getUserLogin());</b>
+        <b class="fc"><i>26</i>&nbsp; }</b>
+        <i>27</i>&nbsp; @Test
+        <i>28</i>&nbsp; void checkIfPasswordIsSetCorrectly(){
+        <b class="fc"><i>29</i>&nbsp; userTester.setUserPassword(&quot;password&quot;);</b>
+        <b class="fc"><i>30</i>&nbsp; assertEquals(&quot;password&quot;, userTester.getUserPassword());</b>
+        <b class="fc"><i>31</i>&nbsp; }</b>
+        <i>32</i>&nbsp; @Test
+        <i>33</i>&nbsp; void checkIfPasswordEmptyIsSetToNull(){
+        <b class="fc"><i>34</i>&nbsp; userTester.setUserPassword(&quot;&quot;);</b>
+        <b class="fc"><i>35</i>&nbsp; assertNull(userTester.getUserPassword());</b>
+        <b class="fc"><i>36</i>&nbsp; }</b>
+        <i>37</i>&nbsp; @Test
+        <i>38</i>&nbsp; void checkIfPaswwordLessThanSixletters(){
+        <b class="fc"><i>39</i>&nbsp; userTester.setUserPassword(&quot;pass&quot;);</b>
+        <b class="fc"><i>40</i>&nbsp; assertNull(userTester.getUserPassword());</b>
+        <b class="fc"><i>41</i>&nbsp; }</b>
+        <i>42</i>&nbsp; @Test
+        <i>43</i>&nbsp; void checkIfTypeIsFromTheList(){
+        <b class="fc"><i>44</i>&nbsp; assertTrue(userTester.checkUserTypeOnTheList(&quot;client&quot;));</b>
+        <b class="fc"><i>45</i>&nbsp; assertTrue(userTester.checkUserTypeOnTheList(&quot;employee&quot;));</b>
+        <b class="fc"><i>46</i>&nbsp; assertTrue(userTester.checkUserTypeOnTheList(&quot;director&quot;));</b>
+        <b class="fc"><i>47</i>&nbsp; assertFalse(userTester.checkUserTypeOnTheList(&quot;blabla&quot;));</b>
+        <b class="fc"><i>48</i>&nbsp; }</b>
+        <i>49</i>&nbsp; @Test
+        <i>50</i>&nbsp; void checkIfUserTypeIsClient(){
+        <b class="fc"><i>51</i>&nbsp; userTester.setUserType(&quot;client&quot;);</b>
+        <b class="fc"><i>52</i>&nbsp; assertEquals(&quot;client&quot;, userTester.getUserType());</b>
+        <b class="fc"><i>53</i>&nbsp; }</b>
+        <i>54</i>&nbsp; @Test
+        <i>55</i>&nbsp; void checkIfTypeIsEmployee(){
+        <b class="fc"><i>56</i>&nbsp; userTester.setUserType(&quot;employee&quot;);</b>
+        <b class="fc"><i>57</i>&nbsp; assertEquals(&quot;employee&quot;, userTester.getUserType());</b>
+        <b class="fc"><i>58</i>&nbsp; }</b>
+        <i>59</i>&nbsp; @Test
+        <i>60</i>&nbsp; void checkIfTypeIsDirector(){
+        <b class="fc"><i>61</i>&nbsp; userTester.setUserType(&quot;director&quot;);</b>
+        <b class="fc"><i>62</i>&nbsp; assertEquals(&quot;director&quot;, userTester.getUserType());</b>
+        <b class="fc"><i>63</i>&nbsp; }</b>
+        <i>64</i>&nbsp; @Test
+        <i>65</i>&nbsp; void checkIfTypeIsSetToNullIfNotFromTheList(){
+        <b class="fc"><i>66</i>&nbsp; userTester.setUserType(&quot;user&quot;);</b>
+        <b class="fc"><i>67</i>&nbsp; assertNull(userTester.getUserType());</b>
+        <b class="fc"><i>68</i>&nbsp; }</b>
+        <i>69</i>&nbsp;}
+    </div>
+</div>
+
+<div class="footer">
+
+    <div style="float:right;">generated on 2019-06-08 20:18</div>
+</div>
+</body>
+</html>

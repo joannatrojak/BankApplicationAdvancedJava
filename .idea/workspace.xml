@@ -1,0 +1,1208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="10" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cd2e30e7-7610-4e3b-8f96-a9983ae90564" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.css/coverage.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__nl_garvelink_oss_iban_1_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_easymock_easymock_4_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_iban4j_iban4j_3_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_joda_joda_money_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_all_1_9_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_3_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.img/arrowDown.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.img/arrowUp.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BankApplicationV2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index_SORT_BY_BLOCK.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index_SORT_BY_BLOCK_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index_SORT_BY_CLASS.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index_SORT_BY_CLASS_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index_SORT_BY_LINE.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index_SORT_BY_LINE_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index_SORT_BY_METHOD.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index_SORT_BY_METHOD_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index_SORT_BY_NAME_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.Account/.classes/Account.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.Account/.classes/AccountGenerator.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.Account/.classes/AccountTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.Account/.classes/InterestGenerator.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.Account/.classes/InternationalAccount.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.Account/.classes/RegularAccount.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.Account/.classes/RegularAccountTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.Account/.classes/SavingAccount.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.Account/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.Account/index_SORT_BY_BLOCK.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.Account/index_SORT_BY_BLOCK_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.Account/index_SORT_BY_CLASS.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.Account/index_SORT_BY_CLASS_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.Account/index_SORT_BY_LINE.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.Account/index_SORT_BY_LINE_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.Account/index_SORT_BY_METHOD.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.Account/index_SORT_BY_METHOD_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.Account/index_SORT_BY_NAME_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.Transfer/.classes/InternationalTransfer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.Transfer/.classes/RegularTransfer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.Transfer/.classes/Transfer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.Transfer/.classes/TransferTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.Transfer/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.Transfer/index_SORT_BY_BLOCK.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.Transfer/index_SORT_BY_BLOCK_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.Transfer/index_SORT_BY_CLASS.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.Transfer/index_SORT_BY_CLASS_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.Transfer/index_SORT_BY_LINE.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.Transfer/index_SORT_BY_LINE_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.Transfer/index_SORT_BY_METHOD.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.Transfer/index_SORT_BY_METHOD_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.Transfer/index_SORT_BY_NAME_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.User/.classes/Client.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.User/.classes/Director.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.User/.classes/Employee.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.User/.classes/User.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.User/.classes/UserTest.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.User/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.User/index_SORT_BY_BLOCK.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.User/index_SORT_BY_BLOCK_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.User/index_SORT_BY_CLASS.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.User/index_SORT_BY_CLASS_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.User/index_SORT_BY_LINE.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.User/index_SORT_BY_LINE_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.User/index_SORT_BY_METHOD.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.User/index_SORT_BY_METHOD_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.User/index_SORT_BY_NAME_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.pl.lodz.uni.math.BankApplication.Services/.classes/AccountService.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.pl.lodz.uni.math.BankApplication.Services/.classes/TransferService.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.pl.lodz.uni.math.BankApplication.Services/.classes/UserService.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.pl.lodz.uni.math.BankApplication.Services/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.pl.lodz.uni.math.BankApplication.Services/index_SORT_BY_BLOCK.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.pl.lodz.uni.math.BankApplication.Services/index_SORT_BY_BLOCK_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.pl.lodz.uni.math.BankApplication.Services/index_SORT_BY_CLASS.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.pl.lodz.uni.math.BankApplication.Services/index_SORT_BY_CLASS_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.pl.lodz.uni.math.BankApplication.Services/index_SORT_BY_LINE.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.pl.lodz.uni.math.BankApplication.Services/index_SORT_BY_LINE_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.pl.lodz.uni.math.BankApplication.Services/index_SORT_BY_METHOD.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.pl.lodz.uni.math.BankApplication.Services/index_SORT_BY_METHOD_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.pl.lodz.uni.math.BankApplication.Services/index_SORT_BY_NAME_DESC.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Account/AccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Account/InterestGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Account/InternationalAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Account/RegularAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Account/SavingAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Transfer/RegularTransfer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/User/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/User/Director.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/User/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/pl/lodz/uni/math/BankApplication/Services/TransferService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/pl/lodz/uni/math/BankApplication/Services/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pl/lodz/uni/math/BankApplication/Account/AccountServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pl/lodz/uni/math/BankApplication/Account/InternationalAccountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pl/lodz/uni/math/BankApplication/Account/SavingAccountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pl/lodz/uni/math/BankApplication/Transfer/InternationalTransferTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pl/lodz/uni/math/BankApplication/Transfer/RegularTransferTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pl/lodz/uni/math/BankApplication/User/ClientTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pl/lodz/uni/math/BankApplication/User/DirectorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pl/lodz/uni/math/BankApplication/User/EmployeeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/BankApplicationV2.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/lodz/uni/math/BankApplication/Account/Account.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/lodz/uni/math/BankApplication/Account/AccountService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/lodz/uni/math/BankApplication/Account/InterestGenerator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/lodz/uni/math/BankApplication/Account/InternationalAccount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/lodz/uni/math/BankApplication/Account/RegularAccount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/lodz/uni/math/BankApplication/Account/RegularAccountTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/lodz/uni/math/BankApplication/Account/SavingAccount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/lodz/uni/math/BankApplication/Transfer/InternationalTransfer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/lodz/uni/math/BankApplication/Transfer/RegularTransfer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/lodz/uni/math/BankApplication/Transfer/Transfer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/lodz/uni/math/BankApplication/Transfer/TransferTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/lodz/uni/math/BankApplication/User/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/lodz/uni/math/BankApplication/User/Director.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/lodz/uni/math/BankApplication/User/Employee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/lodz/uni/math/BankApplication/User/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/lodz/uni/math/BankApplication/User/UserTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/lodz/uni/math/BankApplication/pl/lodz/uni/math/BankApplication/Services/TransferService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/lodz/uni/math/BankApplication/pl/lodz/uni/math/BankApplication/Services/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/META-INF/BankApplicationV2.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/pl/lodz/uni/math/BankApplication/Account/AccountServiceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/pl/lodz/uni/math/BankApplication/Account/InternationalAccountTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/pl/lodz/uni/math/BankApplication/Account/SavingAccountTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/pl/lodz/uni/math/BankApplication/Transfer/InternationalTransferTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/pl/lodz/uni/math/BankApplication/Transfer/RegularTransferTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/pl/lodz/uni/math/BankApplication/User/ClientTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/pl/lodz/uni/math/BankApplication/User/DirectorTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/pl/lodz/uni/math/BankApplication/User/EmployeeTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Account/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Account/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Account/AccountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Account/RegularAccountTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Transfer/InternationalTransfer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Transfer/InternationalTransfer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Transfer/Transfer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Transfer/Transfer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Transfer/TransferTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Transfer/TransferTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/User/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/User/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/User/UserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/User/UserTest.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/BankApplicationV2$TransferTest.ic" NAME="TransferTest Coverage Results" MODIFIED="1559628685316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>pl.lodz.uni.math.BankApplication.Transfer.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/BankApplicationV2$pl_lodz_uni_math_BankApplication_in_BankApplicationV2.ic" NAME="pl.lodz.uni.math.BankApplication in BankApplicationV2 Coverage Results" MODIFIED="1560077066608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>pl.lodz.uni.math.BankApplication.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/BankApplicationV2$UserTest.ic" NAME="UserTest Coverage Results" MODIFIED="1556975286751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>pl.lodz.uni.math.BankApplication.User.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/BankApplicationV2$InternationalTransferTest.ic" NAME="InternationalTransferTest Coverage Results" MODIFIED="1559631686709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>pl.lodz.uni.math.BankApplication.Transfer.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/BankApplicationV2$AccountTest.ic" NAME="AccountTest Coverage Results" MODIFIED="1557735204028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>pl.lodz.uni.math.BankApplication.Account.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/BankApplicationV2$AccountTest_shouldReturnNegativeBalanceFromTheAccount.ic" NAME="AccountTest.shouldReturnNegativeBalanceFromTheAccount Coverage Results" MODIFIED="1557737460699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>pl.lodz.uni.math.BankApplication.Account.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/BankApplicationV2$SavingAccountTest.ic" NAME="SavingAccountTest Coverage Results" MODIFIED="1560001937484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>pl.lodz.uni.math.BankApplication.Account.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/BankApplicationV2$All_in_BankApplicationV2.ic" NAME="All in BankApplicationV2 Coverage Results" MODIFIED="1560006824661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="117" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="C:\Users\Operator1\IdeaProjects\BankApplicationV2" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Account/RegularAccountTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="58" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="58" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Account/AccountService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="279">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pl/lodz/uni/math/BankApplication/Account/AccountServiceTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pl/lodz/uni/math/BankApplication/Transfer/InternationalTransferTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="83" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Transfer/InternationalTransfer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Transfer/RegularTransfer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="34" lean-forward="true" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="50" />
+              <folding>
+                <element signature="e#584#585#0" expanded="true" />
+                <element signature="e#618#619#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pl/lodz/uni/math/BankApplication/Transfer/RegularTransferTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="78" selection-start-line="10" selection-start-column="78" selection-end-line="10" selection-end-column="78" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Transfer/TransferTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Transfer/Transfer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="680">
+              <caret line="40" column="45" selection-start-line="40" selection-start-column="45" selection-end-line="40" selection-end-column="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#600#601#0" expanded="true" />
+                <element signature="e#642#643#0" expanded="true" />
+                <element signature="e#889#890#0" expanded="true" />
+                <element signature="e#930#931#0" expanded="true" />
+                <element signature="e#1122#1123#0" expanded="true" />
+                <element signature="e#1164#1165#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Account/Account.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="680">
+              <caret line="44" column="5" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>accountTester</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>internationalAccountTester</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/pl/lodz/uni/math/BankApplication/User/User.java" />
+        <option value="$PROJECT_DIR$/src/pl/lodz/uni/math/BankApplication/User/UserTest.java" />
+        <option value="$PROJECT_DIR$/src/pl/lodz/uni/math/BankApplication/Account/Account.java" />
+        <option value="$PROJECT_DIR$/src/pl/lodz/uni/math/BankApplication/Account/AccountTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/pl/lodz/uni/math/BankApplication/Services/AccountService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/User/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Account/AccountTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/User/Employee.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/User/Director.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/User/UserTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Account/AccountList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Account/IBANList.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pl/lodz/uni/math/BankApplication/Account/RegularAccountTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Account/AccountGenerator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/User/Client.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pl/lodz/uni/math/BankApplication/User/ClientTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pl/lodz/uni/math/BankApplication/User/DirectorTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pl/lodz/uni/math/BankApplication/User/EmployeeTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Account/InterestGenerator.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Account/RegularAccountTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pl/lodz/uni/math/BankApplication/Account/InternationalAccountTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pl/lodz/uni/math/BankApplication/Account/SavingAccountTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Account/Account.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Account/InternationalAccount.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Account/SavingAccount.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Account/RegularAccount.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Transfer/Transfer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Transfer/InternationalTransfer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Transfer/TransferTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pl/lodz/uni/math/BankApplication/Transfer/InternationalTransferTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Transfer/RegularTransfer.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pl/lodz/uni/math/BankApplication/Transfer/RegularTransferTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pl/lodz/uni/math/BankApplication/Account/AccountServiceTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Account/AccountService.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="BankApplicationV2" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="125" />
+    <option name="width" value="1940" />
+    <option name="height" value="1060" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="BankApplicationV2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BankApplicationV2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BankApplicationV2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BankApplicationV2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BankApplicationV2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BankApplicationV2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BankApplicationV2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BankApplicationV2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BankApplicationV2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BankApplicationV2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="BankApplication" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BankApplicationV2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BankApplicationV2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="BankApplication" type="462c0819:PsiDirectoryNode" />
+              <item name="Account" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BankApplicationV2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BankApplicationV2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="BankApplication" type="462c0819:PsiDirectoryNode" />
+              <item name="Services" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BankApplicationV2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BankApplicationV2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="BankApplication" type="462c0819:PsiDirectoryNode" />
+              <item name="Transfer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BankApplicationV2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BankApplicationV2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="BankApplication" type="462c0819:PsiDirectoryNode" />
+              <item name="User" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BankApplicationV2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BankApplicationV2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BankApplicationV2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BankApplicationV2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BankApplicationV2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BankApplicationV2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="BankApplication" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BankApplicationV2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BankApplicationV2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="BankApplication" type="462c0819:PsiDirectoryNode" />
+              <item name="Account" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BankApplicationV2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BankApplicationV2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="BankApplication" type="462c0819:PsiDirectoryNode" />
+              <item name="Transfer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BankApplicationV2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BankApplicationV2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="BankApplication" type="462c0819:PsiDirectoryNode" />
+              <item name="User" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560098471813" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="pl.lodz.uni.math.BankApplication.Account" />
+      <recent name="pl.lodz.uni.math.BankApplication.Transfer" />
+      <recent name="pl.lodz.uni.math.BankApplication.User" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="pl.lodz.uni.math.BankApplication.Account" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.AccountServiceTest">
+    <configuration name="AccountServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BankApplicationV2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.lodz.uni.math.BankApplication.Account.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.lodz.uni.math.BankApplication.Account" />
+      <option name="MAIN_CLASS_NAME" value="pl.lodz.uni.math.BankApplication.Account.AccountServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountServiceTest.createAccount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BankApplicationV2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.lodz.uni.math.BankApplication.Account.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.lodz.uni.math.BankApplication.Account" />
+      <option name="MAIN_CLASS_NAME" value="pl.lodz.uni.math.BankApplication.Account.AccountServiceTest" />
+      <option name="METHOD_NAME" value="createAccount" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegularTransferTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BankApplicationV2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.lodz.uni.math.BankApplication.Transfer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.lodz.uni.math.BankApplication.Transfer" />
+      <option name="MAIN_CLASS_NAME" value="pl.lodz.uni.math.BankApplication.Transfer.RegularTransferTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pl.lodz.uni.math.BankApplication in BankApplicationV2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BankApplicationV2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.lodz.uni.math.BankApplication.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.lodz.uni.math.BankApplication" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pl.lodz.uni.math.BankApplication.Account in BankApplicationV2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BankApplicationV2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.lodz.uni.math.BankApplication.Account.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pl.lodz.uni.math.BankApplication.Account" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AccountServiceTest" />
+        <item itemvalue="JUnit.pl.lodz.uni.math.BankApplication in BankApplicationV2" />
+        <item itemvalue="JUnit.RegularTransferTest" />
+        <item itemvalue="JUnit.AccountServiceTest.createAccount" />
+        <item itemvalue="JUnit.pl.lodz.uni.math.BankApplication.Account in BankApplicationV2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd2e30e7-7610-4e3b-8f96-a9983ae90564" name="Default Changelist" comment="" />
+      <created>1556534164424</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556534164424</updated>
+    </task>
+    <task id="LOCAL-00001" summary="account Class done and tested">
+      <created>1557761348457</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1557761348458</updated>
+    </task>
+    <task id="LOCAL-00002" summary="TranferClass Done and tested, InternationalTranfer class created">
+      <created>1559629130392</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1559629130392</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="AccountServiceTest - 2019.06.09 at 12h 26m 34s.xml">
+      <configuration name="AccountServiceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AccountServiceTest - 2019.06.09 at 12h 26m 43s.xml">
+      <configuration name="AccountServiceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AccountServiceTest - 2019.06.09 at 12h 27m 11s.xml">
+      <configuration name="AccountServiceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="pl_lodz_uni_math_BankApplication_in_BankApplicationV2 - 2019.06.09 at 12h 27m 20s.xml">
+      <configuration name="pl.lodz.uni.math.BankApplication in BankApplicationV2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="pl_lodz_uni_math_BankApplication_in_BankApplicationV2 - 2019.06.09 at 12h 27m 35s.xml">
+      <configuration name="pl.lodz.uni.math.BankApplication in BankApplicationV2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="pl_lodz_uni_math_BankApplication_in_BankApplicationV2 - 2019.06.09 at 12h 44m 22s.xml">
+      <configuration name="pl.lodz.uni.math.BankApplication in BankApplicationV2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="pl_lodz_uni_math_BankApplication_in_BankApplicationV2 - 2019.06.09 at 12h 44m 28s.xml">
+      <configuration name="pl.lodz.uni.math.BankApplication in BankApplicationV2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RegularTransferTest - 2019.06.09 at 13h 08m 26s.xml">
+      <configuration name="RegularTransferTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="pl_lodz_uni_math_BankApplication_in_BankApplicationV2 - 2019.06.09 at 13h 08m 32s.xml">
+      <configuration name="pl.lodz.uni.math.BankApplication in BankApplicationV2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AccountServiceTest - 2019.06.09 at 13h 20m 11s.xml">
+      <configuration name="AccountServiceTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29127517" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32960895" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32960895" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39944133" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32960895" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32960895" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32960895" />
+      <window_info anchor="bottom" id="Inspection Results" order="11" weight="0.32960895" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.49583334" weight="0.24966443" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" sideWeight="0.49791667" weight="0.3295302" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Coverage" order="8" sideWeight="0.50416666" side_tool="true" weight="0.24966443" />
+      <window_info anchor="right" x="93" y="93" width="1350" height="648" id="Byte Code Viewer" order="9" type="FLOATING" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29127517" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32960895" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32960895" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39944133" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32960895" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32960895" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32960895" />
+      <window_info anchor="bottom" id="Inspection Results" order="11" weight="0.32960895" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.49583334" weight="0.24966443" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" sideWeight="0.49791667" weight="0.3295302" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Coverage" order="8" sideWeight="0.50416666" side_tool="true" weight="0.24966443" />
+      <window_info anchor="right" x="93" y="93" width="1350" height="648" id="Byte Code Viewer" order="9" type="FLOATING" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/src" />
+    </ignored-roots>
+    <MESSAGE value="account Class done and tested" />
+    <MESSAGE value="TranferClass Done and tested, InternationalTranfer class created" />
+    <option name="LAST_COMMIT_MESSAGE" value="TranferClass Done and tested, InternationalTranfer class created" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/BankApplicationV2.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pl.lodz.uni.math.BankApplication.User/.classes/User.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index_SORT_BY_NAME_DESC.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/pl/lodz/uni/math/BankApplication/Services/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/pl/lodz/uni/math/BankApplication/Services/TransferService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Account/AccountList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Account/IBANList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/User/Director.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/User/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pl/lodz/uni/math/BankApplication/User/ClientTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="634">
+          <caret line="67" column="5" selection-start-line="67" selection-start-column="5" selection-end-line="67" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/User/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/User/UserTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pl/lodz/uni/math/BankApplication/User/DirectorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pl/lodz/uni/math/BankApplication/User/EmployeeTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1088">
+          <caret line="64" column="21" selection-start-line="64" selection-start-column="21" selection-end-line="64" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Account/AccountGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/User/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+          <folding>
+            <element signature="e#221#222#0" expanded="true" />
+            <element signature="e#255#256#0" expanded="true" />
+            <element signature="e#313#314#0" expanded="true" />
+            <element signature="e#357#358#0" expanded="true" />
+            <element signature="e#424#425#0" expanded="true" />
+            <element signature="e#486#487#0" expanded="true" />
+            <element signature="e#878#879#0" expanded="true" />
+            <element signature="e#918#919#0" expanded="true" />
+            <element signature="e#1329#1330#0" expanded="true" />
+            <element signature="e#1365#1366#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pl/lodz/uni/math/BankApplication/Account/SavingAccountTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="56" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Account/InternationalAccount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Account/SavingAccount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <folding>
+            <element signature="e#241#242#0" expanded="true" />
+            <element signature="e#315#316#0" expanded="true" />
+            <element signature="e#364#365#0" expanded="true" />
+            <element signature="e#411#412#0" expanded="true" />
+            <element signature="e#222#223#0" expanded="true" />
+            <element signature="e#246#247#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Account/RegularAccount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding>
+            <element signature="e#199#200#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+            <element signature="e#340#341#0" expanded="true" />
+            <element signature="e#386#387#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pl/lodz/uni/math/BankApplication/Account/InternationalAccountTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="16" column="44" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Account/InterestGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Transfer/InternationalTransfer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Transfer/Transfer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="45" selection-start-line="40" selection-start-column="45" selection-end-line="40" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#600#601#0" expanded="true" />
+            <element signature="e#642#643#0" expanded="true" />
+            <element signature="e#889#890#0" expanded="true" />
+            <element signature="e#930#931#0" expanded="true" />
+            <element signature="e#1122#1123#0" expanded="true" />
+            <element signature="e#1164#1165#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pl/lodz/uni/math/BankApplication/Transfer/InternationalTransferTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="83" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Account/RegularAccountTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="58" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Transfer/TransferTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Transfer/RegularTransfer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="34" lean-forward="true" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="50" />
+          <folding>
+            <element signature="e#584#585#0" expanded="true" />
+            <element signature="e#618#619#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pl/lodz/uni/math/BankApplication/Transfer/RegularTransferTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="78" selection-start-line="10" selection-start-column="78" selection-end-line="10" selection-end-column="78" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Account/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="44" column="5" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Account/AccountService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pl/lodz/uni/math/BankApplication/Account/AccountServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>BankApplicationV2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: org.joda:joda-money:1.0.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
