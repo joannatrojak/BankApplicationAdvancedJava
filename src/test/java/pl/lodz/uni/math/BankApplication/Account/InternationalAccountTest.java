@@ -21,20 +21,20 @@ class InternationalAccountTest {
 
     @Test
     void checkIfInitialAccountBalanceSetToZero() throws Exception {
-        assertEquals(Money.parse("USD 0"), internationalAccountTester.checkAccountBalance());
+        assertEquals(Money.parse("USD 10.0"), internationalAccountTester.checkAccountBalance());
     }
 
     @Test
     void checkIfAccountPerformsAddOperation() throws Exception {
         internationalAccountTester.performAnOperation("+", Money.parse("USD 23.87"));
-        assertEquals(Money.parse("USD 23.87"), internationalAccountTester.checkAccountBalance());
+        assertEquals(Money.parse("USD 33.87"), internationalAccountTester.checkAccountBalance());
     }
 
     @Test
     void checkIfAccountPerforsmSubstractOperation() throws Exception {
         internationalAccountTester.performAnOperation("+", Money.parse("USD 10.0"));
         internationalAccountTester.performAnOperation("-", Money.parse("USD 5.0"));
-        assertEquals(Money.parse("USD 5.00"), internationalAccountTester.checkAccountBalance());
+        assertEquals(Money.parse("USD 15.00"), internationalAccountTester.checkAccountBalance());
     }
 
     @Test

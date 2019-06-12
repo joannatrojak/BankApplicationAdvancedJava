@@ -20,20 +20,20 @@ class SavingAccountTest {
 
     @Test
     void checkIfInitialAccountBalanceSetToZero() throws Exception {
-        assertEquals(Money.parse("USD 0"), accountTester.checkAccountBalance());
+        assertEquals(Money.parse("USD 10.0"), accountTester.checkAccountBalance());
     }
 
     @Test
     void checkIfAccountPerformsAddOperation() throws Exception {
         accountTester.performAnOperation("+", Money.parse("USD 23.87"));
-        assertEquals(Money.parse("USD 23.87"), accountTester.checkAccountBalance());
+        assertEquals(Money.parse("USD 33.87"), accountTester.checkAccountBalance());
     }
 
     @Test
     void checkIfAccountPerforsmSubstractOperation() throws Exception {
         accountTester.performAnOperation("+", Money.parse("USD 10.0"));
         accountTester.performAnOperation("-", Money.parse("USD 5.0"));
-        assertEquals(Money.parse("USD 5.00"), accountTester.checkAccountBalance());
+        assertEquals(Money.parse("USD 15.00"), accountTester.checkAccountBalance());
     }
 
     @Test
