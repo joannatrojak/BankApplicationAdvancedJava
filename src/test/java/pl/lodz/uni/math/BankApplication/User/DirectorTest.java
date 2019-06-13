@@ -44,37 +44,4 @@ class DirectorTest {
         userTester.setUserPassword("pass");
         assertNull(userTester.getUserPassword());
     }
-
-    @Test
-    void checkIfTypeIsFromTheList() {
-        assertTrue(userTester.checkUserTypeOnTheList("client"));
-        assertTrue(userTester.checkUserTypeOnTheList("employee"));
-        assertTrue(userTester.checkUserTypeOnTheList("director"));
-        assertFalse(userTester.checkUserTypeOnTheList("blabla"));
-    }
-
-    @Test
-    void checkIfUserTypeIsClient() {
-        userTester.setUserType("client");
-        assertEquals("client", userTester.getUserType());
-    }
-
-    @Test
-    void checkIfTypeIsEmployee() {
-        userTester.setUserType("employee");
-        assertEquals("employee", userTester.getUserType());
-    }
-
-    @Test
-    void checkIfTypeIsDirector() {
-        userTester.setUserType("director");
-        assertEquals("director", userTester.getUserType());
-    }
-
-    @Test
-    void checkIfTypeIsSetToNullIfNotFromTheList() {
-        userTester.setUserType("user");
-        assertNull(userTester.getUserType());
-    }
-
 }

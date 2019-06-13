@@ -30,4 +30,8 @@ class InternationalTransferTest {
         tranferTester.setNumberOfTransaction("01");
         assertEquals("01", tranferTester.getNumberOfTransaction());
     }
+    @Test
+    void performCreditOperation() throws Exception {
+        assertEquals(Money.parse("USD 8.0"), tranferTester.doTransfer("credit"));
+    }
 }
