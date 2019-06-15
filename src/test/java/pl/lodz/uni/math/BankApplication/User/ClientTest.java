@@ -1,6 +1,7 @@
 package pl.lodz.uni.math.BankApplication.User;
 
 import org.junit.jupiter.api.Test;
+import pl.lodz.uni.math.BankApplication.Account.AccountService;
 
 import static org.junit.jupiter.api.Assertions.*;
 
@@ -44,8 +45,11 @@ class ClientTest {
         userTester.setUserPassword("pass");
         assertNull(userTester.getUserPassword());
     }
+    /**
     @Test
-    void requestNewAccount(){
-        assertEquals("Account created", userTester.requestNewAccount());
+    void checkIfAccountWasCreatedByClient() throws Exception {
+        userTester.requestAccount("regular");
+        assertEquals("Account has been created", userTester.getAccountNumber());
     }
+    */
 }

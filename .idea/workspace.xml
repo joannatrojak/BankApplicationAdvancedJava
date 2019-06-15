@@ -5,25 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd2e30e7-7610-4e3b-8f96-a9983ae90564" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/lodz/uni/math/BankApplication/Account/AccountService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/lodz/uni/math/BankApplication/Transfer/InternationalTransfer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/lodz/uni/math/BankApplication/Transfer/RegularTransfer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/pl/lodz/uni/math/BankApplication/User/Client.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Account/AccountService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Account/AccountService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Transfer/InternationalTransfer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Transfer/InternationalTransfer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Transfer/RegularTransfer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Transfer/RegularTransfer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Transfer/Transfer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Transfer/Transfer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/User/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/User/Client.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/pl/lodz/uni/math/BankApplication/Account/AccountServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pl/lodz/uni/math/BankApplication/Account/AccountServiceTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/pl/lodz/uni/math/BankApplication/Transfer/InternationalTransferTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pl/lodz/uni/math/BankApplication/Transfer/InternationalTransferTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/pl/lodz/uni/math/BankApplication/Transfer/RegularTransferTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pl/lodz/uni/math/BankApplication/Transfer/RegularTransferTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/pl/lodz/uni/math/BankApplication/User/ClientTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pl/lodz/uni/math/BankApplication/User/ClientTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/lodz/uni/math/BankApplication/Account/AccountService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/lodz/uni/math/BankApplication/Transfer/InternationalTransfer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/lodz/uni/math/BankApplication/Transfer/RegularTransfer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/lodz/uni/math/BankApplication/Transfer/Transfer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/lodz/uni/math/BankApplication/Transfer/Transfer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/lodz/uni/math/BankApplication/User/Client.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/pl/lodz/uni/math/BankApplication/Account/AccountServiceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pl/lodz/uni/math/BankApplication/Account/AccountServiceTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pl/lodz/uni/math/BankApplication/Transfer/InternationalTransferTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pl/lodz/uni/math/BankApplication/Transfer/InternationalTransferTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pl/lodz/uni/math/BankApplication/Transfer/RegularTransferTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pl/lodz/uni/math/BankApplication/Transfer/RegularTransferTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/pl/lodz/uni/math/BankApplication/User/ClientTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pl/lodz/uni/math/BankApplication/User/ClientTest.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -44,7 +38,7 @@
     <SUITE FILE_PATH="coverage/BankApplicationFinalProject$pl_lodz_uni_math_BankApplication_Account_in_BankApplicationV2.ic" NAME="pl.lodz.uni.math.BankApplication.Account in BankApplicationV2 Coverage Results" MODIFIED="1560355341616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>pl.lodz.uni.math.BankApplication.Account.*</FILTER>
     </SUITE>
-    <SUITE FILE_PATH="coverage/BankApplicationAdvancedJava$pl_lodz_uni_math_BankApplication_in_BankApplicationV2.ic" NAME="pl.lodz.uni.math.BankApplication in BankApplicationV2 Coverage Results" MODIFIED="1560591748781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/BankApplicationAdvancedJava$pl_lodz_uni_math_BankApplication_in_BankApplicationV2.ic" NAME="pl.lodz.uni.math.BankApplication in BankApplicationV2 Coverage Results" MODIFIED="1560594524530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>pl.lodz.uni.math.BankApplication.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/BankApplicationV2$UserTest.ic" NAME="UserTest Coverage Results" MODIFIED="1556975286751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
@@ -79,38 +73,29 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Account/AccountService.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="340">
-              <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+              <caret line="32" column="53" selection-start-line="32" selection-start-column="53" selection-end-line="32" selection-end-column="53" />
               <folding>
-                <element signature="e#726#727#0" expanded="true" />
-                <element signature="e#767#768#0" expanded="true" />
+                <element signature="e#680#681#0" expanded="true" />
+                <element signature="e#721#722#0" expanded="true" />
                 <element signature="e#760#761#0" expanded="true" />
                 <element signature="e#795#796#0" expanded="true" />
                 <element signature="e#826#827#0" expanded="true" />
                 <element signature="e#856#857#0" expanded="true" />
+                <element signature="e#895#896#0" expanded="true" />
+                <element signature="e#935#936#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Transfer/InternationalTransfer.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/User/Client.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="238">
+              <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
               <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Transfer/Transfer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
-              <caret line="40" column="6" selection-start-line="40" selection-start-column="6" selection-end-line="40" selection-end-column="6" />
-              <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#364#365#0" expanded="true" />
+                <element signature="e#413#414#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -128,15 +113,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/pl/lodz/uni/math/BankApplication/Account/AccountServiceTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="381">
-              <caret line="34" column="45" selection-start-line="34" selection-start-column="45" selection-end-line="34" selection-end-column="45" />
+            <state relative-caret-position="364">
+              <caret line="42" column="45" selection-start-line="42" selection-start-column="45" selection-end-line="42" selection-end-column="45" />
               <folding>
                 <element signature="e#1059#1060#0" expanded="true" />
                 <element signature="e#1086#1087#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pl/lodz/uni/math/BankApplication/Account/InternationalAccountTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="18" selection-end-column="83" />
             </state>
           </provider>
         </entry>
@@ -163,6 +157,18 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Account/Account.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/pl/lodz/uni/math/BankApplication/Transfer/InternationalTransferTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
@@ -174,20 +180,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/User/Client.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/pl/lodz/uni/math/BankApplication/User/ClientTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
-              <caret line="49" selection-start-line="49" selection-end-line="49" />
+            <state relative-caret-position="347">
+              <caret line="53" column="6" selection-start-line="53" selection-start-column="6" selection-end-line="53" selection-end-column="6" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -249,15 +246,15 @@
         <option value="$PROJECT_DIR$/src/test/java/pl/lodz/uni/math/BankApplication/User/DirectorTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/pl/lodz/uni/math/BankApplication/User/EmployeeTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/User/User.java" />
-        <option value="$PROJECT_DIR$/src/test/java/pl/lodz/uni/math/BankApplication/User/ClientTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/User/Client.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Transfer/InternationalTransfer.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Transfer/Transfer.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Transfer/RegularTransfer.java" />
         <option value="$PROJECT_DIR$/src/test/java/pl/lodz/uni/math/BankApplication/Transfer/RegularTransferTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/pl/lodz/uni/math/BankApplication/Transfer/InternationalTransferTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Account/AccountService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/User/Client.java" />
         <option value="$PROJECT_DIR$/src/test/java/pl/lodz/uni/math/BankApplication/Account/AccountServiceTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pl/lodz/uni/math/BankApplication/User/ClientTest.java" />
       </list>
     </option>
   </component>
@@ -405,7 +402,7 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560591748599" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560594523786" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -457,7 +454,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AccountServiceTest.checkIfAccountIsApproved" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AccountServiceTest.checkIfAccountNumberIsShownForTheAccount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="BankApplicationV2" />
       <extension name="coverage">
         <pattern>
@@ -467,7 +464,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="pl.lodz.uni.math.BankApplication.Account" />
       <option name="MAIN_CLASS_NAME" value="pl.lodz.uni.math.BankApplication.Account.AccountServiceTest" />
-      <option name="METHOD_NAME" value="checkIfAccountIsApproved" />
+      <option name="METHOD_NAME" value="checkIfAccountNumberIsShownForTheAccount" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -489,17 +486,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AccountServiceTest.checkIfSavingAccountWasCreated" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ClientTest.checkIfAccountWasCreatedByClient" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="BankApplicationV2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.lodz.uni.math.BankApplication.Account.*" />
+          <option name="PATTERN" value="pl.lodz.uni.math.BankApplication.User.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="pl.lodz.uni.math.BankApplication.Account" />
-      <option name="MAIN_CLASS_NAME" value="pl.lodz.uni.math.BankApplication.Account.AccountServiceTest" />
-      <option name="METHOD_NAME" value="checkIfSavingAccountWasCreated" />
+      <option name="PACKAGE_NAME" value="pl.lodz.uni.math.BankApplication.User" />
+      <option name="MAIN_CLASS_NAME" value="pl.lodz.uni.math.BankApplication.User.ClientTest" />
+      <option name="METHOD_NAME" value="checkIfAccountWasCreatedByClient" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -522,10 +519,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.pl.lodz.uni.math.BankApplication in BankApplicationV2" />
+        <item itemvalue="JUnit.AccountServiceTest.checkIfAccountNumberIsShownForTheAccount" />
         <item itemvalue="JUnit.AccountServiceTest" />
-        <item itemvalue="JUnit.AccountServiceTest.checkIfAccountIsApproved" />
-        <item itemvalue="JUnit.AccountServiceTest.checkIfSavingAccountWasCreated" />
         <item itemvalue="JUnit.AccountServiceTest.checkIfRegularAccountWasCreated" />
+        <item itemvalue="JUnit.ClientTest.checkIfAccountWasCreatedByClient" />
       </list>
     </recent_temporary>
   </component>
@@ -610,39 +607,46 @@
       <option name="project" value="LOCAL" />
       <updated>1560415820832</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="approve account">
+      <created>1560591778066</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1560591778066</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AccountServiceTest_checkIfRegularAccountWasCreated - 2019.06.15 at 11h 29m 13s.xml">
-      <configuration name="AccountServiceTest.checkIfRegularAccountWasCreated" configurationId="JUnit" />
+    <history-entry file="ClientTest_checkIfAccountWasCreatedByClient - 2019.06.15 at 12h 09m 43s.xml">
+      <configuration name="ClientTest.checkIfAccountWasCreatedByClient" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AccountServiceTest_checkIfRegularAccountWasCreated - 2019.06.15 at 11h 31m 31s.xml">
-      <configuration name="AccountServiceTest.checkIfRegularAccountWasCreated" configurationId="JUnit" />
+    <history-entry file="ClientTest_checkIfAccountWasCreatedByClient - 2019.06.15 at 12h 13m 37s.xml">
+      <configuration name="ClientTest.checkIfAccountWasCreatedByClient" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AccountServiceTest_checkIfRegularAccountWasCreated - 2019.06.15 at 11h 33m 26s.xml">
-      <configuration name="AccountServiceTest.checkIfRegularAccountWasCreated" configurationId="JUnit" />
+    <history-entry file="ClientTest_checkIfAccountWasCreatedByClient - 2019.06.15 at 12h 14m 03s.xml">
+      <configuration name="ClientTest.checkIfAccountWasCreatedByClient" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AccountServiceTest - 2019.06.15 at 11h 35m 35s.xml">
-      <configuration name="AccountServiceTest" configurationId="JUnit" />
+    <history-entry file="ClientTest_checkIfAccountWasCreatedByClient - 2019.06.15 at 12h 15m 01s.xml">
+      <configuration name="ClientTest.checkIfAccountWasCreatedByClient" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AccountServiceTest_checkIfRegularAccountWasCreated - 2019.06.15 at 11h 36m 16s.xml">
-      <configuration name="AccountServiceTest.checkIfRegularAccountWasCreated" configurationId="JUnit" />
+    <history-entry file="AccountServiceTest_checkIfAccountNumberIsShownForTheAccount - 2019.06.15 at 12h 24m 34s.xml">
+      <configuration name="AccountServiceTest.checkIfAccountNumberIsShownForTheAccount" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AccountServiceTest_checkIfRegularAccountWasCreated - 2019.06.15 at 11h 37m 07s.xml">
-      <configuration name="AccountServiceTest.checkIfRegularAccountWasCreated" configurationId="JUnit" />
+    <history-entry file="AccountServiceTest_checkIfAccountNumberIsShownForTheAccount - 2019.06.15 at 12h 24m 52s.xml">
+      <configuration name="AccountServiceTest.checkIfAccountNumberIsShownForTheAccount" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AccountServiceTest_checkIfSavingAccountWasCreated - 2019.06.15 at 11h 37m 10s.xml">
-      <configuration name="AccountServiceTest.checkIfSavingAccountWasCreated" configurationId="JUnit" />
+    <history-entry file="AccountServiceTest_checkIfAccountNumberIsShownForTheAccount - 2019.06.15 at 12h 25m 01s.xml">
+      <configuration name="AccountServiceTest.checkIfAccountNumberIsShownForTheAccount" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AccountServiceTest - 2019.06.15 at 11h 37m 14s.xml">
-      <configuration name="AccountServiceTest" configurationId="JUnit" />
+    <history-entry file="AccountServiceTest_checkIfAccountNumberIsShownForTheAccount - 2019.06.15 at 12h 27m 39s.xml">
+      <configuration name="AccountServiceTest.checkIfAccountNumberIsShownForTheAccount" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AccountServiceTest_checkIfAccountIsApproved - 2019.06.15 at 11h 40m 59s.xml">
-      <configuration name="AccountServiceTest.checkIfAccountIsApproved" configurationId="JUnit" />
+    <history-entry file="pl_lodz_uni_math_BankApplication_in_BankApplicationV2 - 2019.06.15 at 12h 27m 48s.xml">
+      <configuration name="pl.lodz.uni.math.BankApplication in BankApplicationV2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AccountServiceTest - 2019.06.15 at 11h 41m 11s.xml">
-      <configuration name="AccountServiceTest" configurationId="JUnit" />
+    <history-entry file="pl_lodz_uni_math_BankApplication_in_BankApplicationV2 - 2019.06.15 at 12h 27m 56s.xml">
+      <configuration name="pl.lodz.uni.math.BankApplication in BankApplicationV2" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -785,7 +789,8 @@
     <MESSAGE value="correct transfer balance in test" />
     <MESSAGE value="international transfer test" />
     <MESSAGE value="request new account in client class" />
-    <option name="LAST_COMMIT_MESSAGE" value="request new account in client class" />
+    <MESSAGE value="approve account" />
+    <option name="LAST_COMMIT_MESSAGE" value="approve account" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -852,13 +857,6 @@
     <entry file="file://$PROJECT_DIR$/BankApplicationFinalProject.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pl/lodz/uni/math/BankApplication/Account/InternationalAccountTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="29" column="39" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/pl/lodz/uni/math/BankApplication/Account/SavingAccountTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -916,16 +914,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Account/Account.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Account/InternationalAccount.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -957,13 +945,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/User/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
@@ -1017,16 +998,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pl/lodz/uni/math/BankApplication/User/ClientTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="49" selection-start-line="49" selection-end-line="49" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Account/InterestGenerator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -1034,28 +1005,68 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Account/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/Account/AccountService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
-          <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+          <caret line="32" column="53" selection-start-line="32" selection-start-column="53" selection-end-line="32" selection-end-column="53" />
           <folding>
-            <element signature="e#726#727#0" expanded="true" />
-            <element signature="e#767#768#0" expanded="true" />
+            <element signature="e#680#681#0" expanded="true" />
+            <element signature="e#721#722#0" expanded="true" />
             <element signature="e#760#761#0" expanded="true" />
             <element signature="e#795#796#0" expanded="true" />
             <element signature="e#826#827#0" expanded="true" />
             <element signature="e#856#857#0" expanded="true" />
+            <element signature="e#895#896#0" expanded="true" />
+            <element signature="e#935#936#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/lodz/uni/math/BankApplication/User/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+          <folding>
+            <element signature="e#364#365#0" expanded="true" />
+            <element signature="e#413#414#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pl/lodz/uni/math/BankApplication/Account/InternationalAccountTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="18" selection-end-column="83" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/pl/lodz/uni/math/BankApplication/Account/AccountServiceTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="34" column="45" selection-start-line="34" selection-start-column="45" selection-end-line="34" selection-end-column="45" />
+        <state relative-caret-position="364">
+          <caret line="42" column="45" selection-start-line="42" selection-start-column="45" selection-end-line="42" selection-end-column="45" />
           <folding>
             <element signature="e#1059#1060#0" expanded="true" />
             <element signature="e#1086#1087#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pl/lodz/uni/math/BankApplication/User/ClientTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="53" column="6" selection-start-line="53" selection-start-column="6" selection-end-line="53" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
