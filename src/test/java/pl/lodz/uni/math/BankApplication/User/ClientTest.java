@@ -4,6 +4,8 @@ import org.junit.jupiter.api.Test;
 import pl.lodz.uni.math.BankApplication.Account.AccountService;
 
 import static org.junit.jupiter.api.Assertions.*;
+import static org.mockito.Mockito.mock;
+import static org.mockito.Mockito.when;
 
 class ClientTest {
     private final Client userTester = new Client();
@@ -45,11 +47,10 @@ class ClientTest {
         userTester.setUserPassword("pass");
         assertNull(userTester.getUserPassword());
     }
-    /**
     @Test
-    void checkIfAccountWasCreatedByClient() throws Exception {
-        userTester.requestAccount("regular");
-        assertEquals("Account has been created", userTester.getAccountNumber());
+    void checkIfAccountNumberIsShownForTheAccount() throws Exception {
+        Client accountTester = mock(Client.class);
+        String stringDateToBeDisplayed = "NL91ABNA0417164300";
+        when(accountTester.getAccountNumber()).thenReturn(stringDateToBeDisplayed);
     }
-    */
 }
