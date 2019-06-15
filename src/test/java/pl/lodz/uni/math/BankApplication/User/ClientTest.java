@@ -53,4 +53,8 @@ class ClientTest {
         String stringDateToBeDisplayed = "NL91ABNA0417164300";
         when(accountTester.getAccountNumber()).thenReturn(stringDateToBeDisplayed);
     }
+    @Test
+    void checkIfUserCanMakeTransactions(){
+        assertFalse(userTester.makeTransaction());
+    }
 }
