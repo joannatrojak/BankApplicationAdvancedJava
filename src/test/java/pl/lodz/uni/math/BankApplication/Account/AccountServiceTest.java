@@ -28,11 +28,13 @@ class AccountServiceTest {
         assertThat(accountTester.getAccountToBeCreated(), instanceOf(InternationalAccount.class));
     }
     @Test
-    void checkIfAccountIsApproved(){
+    void checkIfAccountIsApproved() throws Exception {
+        accountTester.createNewAccount("international");
         assertFalse(accountTester.ifApproved());
     }
     @Test
-    void checkAfterApproval(){
+    void checkAfterApproval() throws Exception {
+        accountTester.createNewAccount("regular");
         accountTester.approveAccount();
         assertTrue(accountTester.ifApproved());
     }
@@ -41,5 +43,11 @@ class AccountServiceTest {
         AccountService accountTester = mock(AccountService.class);
         String stringDateToBeDisplayed = "NL91ABNA0417164300";
         when(accountTester.getAccountNumber()).thenReturn(stringDateToBeDisplayed);
+    }
+    @Test
+    void checkIfAccountsWaitingForApprovalAreNotEmpty() throws Exception {
+        accountTester.createNewAccount("regular");
+        assertNull(accountTester.waitingForApproval.add(accountTester.getAccountToBeCreated()));
+
     }
 }

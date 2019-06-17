@@ -54,7 +54,8 @@ class ClientTest {
         when(accountTester.getAccountNumber()).thenReturn(stringDateToBeDisplayed);
     }
     @Test
-    void checkIfUserCanMakeTransactions(){
+    void checkIfUserCanMakeTransactions() throws Exception {
+        userTester.requestAccount("regular");
         assertFalse(userTester.makeTransaction());
     }
 }
