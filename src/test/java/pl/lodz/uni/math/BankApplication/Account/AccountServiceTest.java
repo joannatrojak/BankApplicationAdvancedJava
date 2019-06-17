@@ -47,7 +47,7 @@ class AccountServiceTest {
     @Test
     void checkIfAccountsWaitingForApprovalAreNotEmpty() throws Exception {
         accountTester.createNewAccount("regular");
-        assertNull(accountTester.waitingForApproval.add(accountTester.getAccountToBeCreated()));
-
+        accountTester.sendAccountForApproval();
+        assertNotNull(accountTester.getAccountsForApproval());
     }
 }
