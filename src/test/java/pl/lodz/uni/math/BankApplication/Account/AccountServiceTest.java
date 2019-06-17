@@ -35,6 +35,7 @@ class AccountServiceTest {
     @Test
     void checkAfterApproval() throws Exception {
         accountTester.createNewAccount("regular");
+        accountTester.sendAccountForApproval();
         accountTester.approveAccount();
         assertTrue(accountTester.ifApproved());
     }
