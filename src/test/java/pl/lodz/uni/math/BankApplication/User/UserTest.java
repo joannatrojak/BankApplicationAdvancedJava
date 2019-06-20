@@ -1,13 +1,10 @@
 package pl.lodz.uni.math.BankApplication.User;
 
 import org.junit.jupiter.api.Test;
-import pl.lodz.uni.math.BankApplication.Account.AccountService;
 
 import static org.junit.jupiter.api.Assertions.*;
-import static org.mockito.Mockito.mock;
-import static org.mockito.Mockito.when;
 
-class ClientTest {
+class UserTest {
     private final Client userTester = new Client();
 
     @Test
@@ -46,16 +43,5 @@ class ClientTest {
     void checkIfPaswwordLessThanSixletters() {
         userTester.setUserPassword("pass");
         assertNull(userTester.getUserPassword());
-    }
-    @Test
-    void checkIfAccountNumberIsShownForTheAccount() throws Exception {
-        Client accountTester = mock(Client.class);
-        String stringDateToBeDisplayed = "NL91ABNA0417164300";
-        when(accountTester.getAccountNumber()).thenReturn(stringDateToBeDisplayed);
-    }
-    @Test
-    void checkIfUserCanMakeTransactions() throws Exception {
-        userTester.requestAccount("regular");
-        //assertFalse(userTester.makeTransaction());
     }
 }
