@@ -43,6 +43,14 @@ class SavingAccountTest {
     }
     @Test
     void checkIfHowManyMinutesReturnsTheDifferenceBetweenTwoDates(){
-        assertEquals(0, accountTester.howManyMinutes());
+        SavingAccount accountTester = mock(SavingAccount.class);
+        Long timeToBeMocked = Long.valueOf(38);
+        when(accountTester.howManyMinutes()).thenReturn(timeToBeMocked);
+    }
+    @Test
+    void checkIfInterestRateIsReturned(){
+        SavingAccount accountTester = mock(SavingAccount.class);
+        Double interestToBeMocked = Double.valueOf(0.3);
+        when(accountTester.whatIsTheInterest()).thenReturn(interestToBeMocked);
     }
 }
