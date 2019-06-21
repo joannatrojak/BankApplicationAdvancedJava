@@ -41,4 +41,8 @@ class SavingAccountTest {
         accountTester.performAnOperation("+", Money.parse("USD 10.00"));
         assertThrows(Exception.class, () -> accountTester.performAnOperation(".", Money.parse("USD 10.00")));
     }
+    @Test
+    void checkIfHowManyMinutesReturnsTheDifferenceBetweenTwoDates(){
+        assertEquals(0, accountTester.howManyMinutes());
+    }
 }
