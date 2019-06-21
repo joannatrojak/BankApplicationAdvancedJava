@@ -50,7 +50,14 @@ class SavingAccountTest {
     @Test
     void checkIfInterestRateIsReturned(){
         SavingAccount accountTester = mock(SavingAccount.class);
-        Double interestToBeMocked = Double.valueOf(0.3);
+        Money interestToBeMocked = Money.parse("USD 0.44");
         when(accountTester.whatIsTheInterest()).thenReturn(interestToBeMocked);
+    }
+    @Test
+    void checkIfAccountIsUpdated() throws Exception {
+        Money beforeInterest = accountTester.accountBalance;
+        accountTester.updateAccount();
+        Money afterInterest = accountTester.accountBalance;
+        assertTrue(afterInterest.isGreaterThan(beforeInterest));
     }
 }
