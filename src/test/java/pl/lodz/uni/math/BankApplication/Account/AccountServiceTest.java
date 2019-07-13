@@ -37,7 +37,7 @@ class AccountServiceTest {
         accountTester.createNewAccount("regular");
         accountTester.sendAccountForApproval();
         accountTester.approveAccount();
-        //assertTrue(accountTester.ifApproved());
+        assertTrue(accountTester.ifApproved());
     }
     @Test
     void checkIfAccountNumberIsShownForTheAccount() throws Exception {
