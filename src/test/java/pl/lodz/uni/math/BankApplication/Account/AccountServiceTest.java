@@ -50,5 +50,6 @@ class AccountServiceTest {
         accountTester.createNewAccount("regular");
         accountTester.sendAccountForApproval();
         assertNotNull(accountTester.getAccountsForApproval());
+        assertFalse(accountTester.getAccountToBeCreated().accepted);
     }
 }

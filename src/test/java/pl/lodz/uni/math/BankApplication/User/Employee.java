@@ -6,5 +6,4 @@ class Employee extends User {
 
     protected AccountService ClientAccountService = new AccountService();
 
-
 }
