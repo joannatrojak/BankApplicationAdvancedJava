@@ -52,4 +52,11 @@ class AccountServiceTest {
         assertNotNull(accountTester.getAccountsForApproval());
         assertFalse(accountTester.getAccountToBeCreated().accepted);
     }
+    @Test
+    void checkIfAccountHasBeenApproved() throws Exception {
+        accountTester.createNewAccount("international");
+        accountTester.sendAccountForApproval();
+        accountTester.approveAccount();
+        assertTrue(accountTester.getAccountToBeCreated().accepted);
+    }
 }
