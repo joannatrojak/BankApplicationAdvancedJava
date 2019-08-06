@@ -28,16 +28,10 @@ class AccountServiceTest {
         assertThat(accountTester.getAccountToBeCreated(), instanceOf(InternationalAccount.class));
     }
     @Test
-    void checkIfAccountIsApproved() throws Exception {
-        accountTester.createNewAccount("international");
-         //assertFalse(accountTester.ifApproved());
-    }
-    @Test
     void checkAfterApproval() throws Exception {
         accountTester.createNewAccount("regular");
         accountTester.sendAccountForApproval();
         accountTester.approveAccount();
-        assertTrue(accountTester.ifApproved());
     }
     @Test
     void checkIfAccountNumberIsShownForTheAccount() throws Exception {
@@ -57,6 +51,23 @@ class AccountServiceTest {
         accountTester.createNewAccount("international");
         accountTester.sendAccountForApproval();
         accountTester.approveAccount();
+        assertTrue(accountTester.getAccountToBeCreated().accepted);
+    }
+    @Test
+    void checkIfAccountHasBeenRemovedAfterApproval() throws Exception {
+        accountTester.createNewAccount("international");
+        accountTester.sendAccountForApproval();
+        accountTester.approveAccount();
+        accountTester.removeAccount();
+        assertEquals(0, accountTester.pending.size());
+    }
+    @Test
+    void checkIfAccountWasAddedToApproved() throws Exception {
+        accountTester.createNewAccount("regular");
+        accountTester.sendAccountForApproval();
+        accountTester.approveAccount();
+        accountTester.removeAccount();
+        assertNotNull(accountTester.getApprovedAccounts());
         assertTrue(accountTester.getAccountToBeCreated().accepted);
     }
 }

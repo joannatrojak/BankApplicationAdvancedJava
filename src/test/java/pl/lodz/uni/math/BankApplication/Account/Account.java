@@ -8,6 +8,15 @@ import java.util.ArrayList;
 abstract class Account extends ArrayList {
     String accountNumber = String.valueOf(Iban.random());
     Money accountBalance = Money.parse("USD 10");
+
+    public boolean isAccepted() {
+        return accepted;
+    }
+
+    public void setAccepted(boolean accepted) {
+        this.accepted = accepted;
+    }
+
     boolean accepted = false;
 
 
@@ -35,8 +44,8 @@ abstract class Account extends ArrayList {
             case "-":
                 substractMoneyFromTheAccount(Money.parse(String.valueOf(amountToPass)));
                 return;
-                default:
-                    throw new Exception("Unknown operation");
+            default:
+                throw new Exception("Unknown operation");
         }
     }
 }

@@ -1,12 +1,13 @@
 package pl.lodz.uni.math.BankApplication.Account;
 
 
-import java.util.ArrayList;
+
+import java.util.*;
 
 public class AccountService {
     protected Account accountToBeCreated;
     protected ArrayList<Account> pending = new ArrayList<Account>();
-
+    protected ArrayList<Account> approved = new ArrayList<>();
 
 
     public void createNewAccount(String typeOfAccount) throws Exception {
@@ -20,6 +21,8 @@ public class AccountService {
             case "international":
                 this.accountToBeCreated = new InternationalAccount();
                 break;
+            default:
+                throw new Exception("Unknown type of account");
         }
     }
     public Account getAccountToBeCreated() {
@@ -28,20 +31,34 @@ public class AccountService {
     protected void sendAccountForApproval(){
         pending.add(this.accountToBeCreated);
     }
-    protected ArrayList getAccountsForApproval(){
+    public ArrayList getAccountsForApproval(){
         return pending;
     }
     public void approveAccount() {
-        for (Account account : pending){
-            if (account.accepted == false){
-                account.accepted = true;
+        for (int i = 0; i < pending.size(); i++){
+            if (pending.get(i).accepted == false){
+                pending.get(i).setAccepted(true);
             }
         }
     }
-    public boolean ifApproved(){
-        return pending.get(0).accepted;
+    public void removeAccount(){
+        for (int i = 0; i < pending.size(); i++){
+            if (pending.get(i).accepted == true){
+                addApprovedAccountToApprovedAccounts(pending.get(i));
+                pending.remove(i);
+            }
+        }
+    }
+    public ArrayList getApprovedAccounts(){
+        return approved;
+    }
+    public void addApprovedAccountToApprovedAccounts(Account accountToBeAdded){
+        approved.add(accountToBeAdded);
     }
     public String getAccountNumber(){
         return accountToBeCreated.getAccountNumber();
+    }
+    public boolean getApproved(){
+        return accountToBeCreated.accepted;
     }
 }

@@ -16,7 +16,7 @@ class Client extends User {
     }
 
     public boolean makeTransaction() {
-        if (ClientAccountService.ifApproved()){
+        if (ClientAccountService.getApproved()){
             return true;
         }
         return false;

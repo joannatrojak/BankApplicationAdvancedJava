@@ -6,6 +6,8 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class EmployeeTest {
     private final Employee userTester = new Employee();
+    private final Client userTester2 = new Client();
+    private final UserService userService = new UserService();
 
     @Test
     void checkIfLoginIsCorrect() {
@@ -43,5 +45,16 @@ class EmployeeTest {
     void checkIfPaswwordLessThanSixletters() {
         userTester.setUserPassword("pass");
         assertNull(userTester.getUserPassword());
+    }
+    @Test
+    void checkIfThereArePendingAccounts() throws Exception {
+        userTester2.requestAccount("regular");
+    }
+    @Test
+    void viewDataOfClients() throws Exception {
+        userService.createNewUser("client");
+        userService.addNewClientToTheListOfClients();
+        assertEquals(1, userService.listOfClients.size());
+        assertEquals(null, userTester.viewDataOfClients().get(0).getUserLogin());
     }
 }

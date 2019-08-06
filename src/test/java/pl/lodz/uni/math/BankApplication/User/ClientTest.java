@@ -53,10 +53,9 @@ class ClientTest {
         String stringDateToBeDisplayed = "NL91ABNA0417164300";
         when(accountTester.getAccountNumber()).thenReturn(stringDateToBeDisplayed);
     }
-    /*
     @Test
-    void checkIfUserCanMakeTransactions() throws Exception {
-        assertEquals("regular", userTester.ClientAccountService.getAccountToBeCreated());
+    void checkIfAccountIsApproved() throws Exception {
+        userTester.requestAccount("regular");
+        //assertTrue(userTester.makeTransaction());
     }
-    */
 }
